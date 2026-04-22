@@ -1,0 +1,29 @@
+{
+  "network": "hyperEvmTestnet",
+  "chainId": 998,
+  "vault": "0xF40AE1fddD06b96cF12e6c939fCD3Fc68D2e79c0",
+  "oracle": "0xdDbb95595a188B7590535D7E601CA32E1e003eD7",
+  "deployer": "0xDbFaA33921919CB5c48d323D047e461eDc05B383",
+  "vaultTx": "0xda8e846e66ff563e8d0668745c349d1b99e87c6d92a67785eb1055534383d53c",
+  "oracleTx": "0xc755863224651cb50903355a96863d1fd56877ed88223c698416ade1f00b1a02",
+  "blockNumber": 50931886,
+  "gas": {
+    "vault": "2061736",
+    "oracle": "642322"
+  },
+  "gasPrice": "100000000",
+  "constructor": {
+    "vault": {
+      "initialOwner": "0xDbFaA33921919CB5c48d323D047e461eDc05B383",
+      "usdc": "0x2B3370eE501B4a559b57D449569354196457D8Ab",
+      "oracle": "0xdDbb95595a188B7590535D7E601CA32E1e003eD7",
+      "feeRecipient": "0xDbFaA33921919CB5c48d323D047e461eDc05B383",
+      "cooldownSeconds": "300"
+    },
+    "oracle": {
+      "initialOwner": "0xDbFaA33921919CB5c48d323D047e461eDc05B383",
+      "vault": "0xF40AE1fddD06b96cF12e6c939fCD3Fc68D2e79c0"
+    }
+  },
+  "timestamp": "2026-04-15T10:26:03.126Z"
+}
