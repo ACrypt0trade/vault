@@ -1,6 +1,6 @@
 # Custom Vault for Hyperliquid — Submission Package
 
-A headless ERC-4626 Vault deployed on HyperEVM testnet (chain 998), denominated in USDC, with three custom business rules. This README targets the Hyperliquid dev team reviewing the contract for inclusion in the HyperCore vault registry. It is paired with `COVER-LETTER.md` and shipped inside `custom-vault-submission.zip`.
+A headless ERC-4626 Vault deployed on HyperEVM testnet (chain 998), denominated in USDC, with three custom business rules.
 
 ## Overview
 
